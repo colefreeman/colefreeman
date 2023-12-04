@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colefreeman
-- 👀 I’m interested in Data Science, Maching Learning 
-- 🌱 I’m currently learning Time to Event Analysis
-- 💞️ I’m looking to collaborate on learning and contributing to data science projects
+- 👀 I’m interested in Analytics Engineering, Data Engineering, and Data Analytics 
+- 🌱 I’m currently dbt, Snowflake, and Analytics Engineering best practices
+- 💞️ I’m looking to collaborate on learning and contributing to Analytics Engineering projects
 - 📫 How to reach me https://www.linkedin.com/in/coleffreeman
 
 <!---
